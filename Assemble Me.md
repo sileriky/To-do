@@ -2,7 +2,7 @@
 
 Description: The microprocessor simulator that we are currently using is awkard to work with, hence I'm working one a new one. Blame Gani for the idea.  
 Specifics: The project has been created with VS 2017 using C# and WPF.  
-[Link](https://github.com/sileriky/Assemble-Me#assemble-me)
+[Link](https://github.com/sileriky/Assemble-Me)
 
 ## To Do:
 1. IMPLEMENT DRAG-N-DROP... IMMEDIATELY  
